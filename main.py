@@ -8,7 +8,7 @@ from buttons import catalog
 from web import audio
 from turk_music import audio_turk
 
-TOKEN = "6752113285:AAFM7Wy86Q50-OlVpEI5jYZdZrzeAUzrj9U"
+TOKEN = ""
 
 dp = Dispatcher()
 
